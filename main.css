@@ -580,3 +580,19 @@ input:focus, textarea:focus {
     text-transform: uppercase;
     padding: 10px;
 }
+
+.update1 {
+    background-image: url(images/update1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.update2 {
+    background-image: url(images/update2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.update3 {
+    background-image: url(images/update3.png);
+    background-size: cover;
+    background-position: center;
+}
