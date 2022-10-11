@@ -324,6 +324,13 @@ p {
     color: var(--grey);
 }
 
+li {
+    font-size: 18px;
+    font-family: var(--poppins);
+    color: var(--grey);
+    padding: 10px;
+}
+
 /*VISION*/
 .vis {
     background-color: var(--black-other);
